@@ -1,0 +1,23 @@
+{
+  "name": "anchor",
+  "description": "*** This is just a test for remix & localhost",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahayder/remix-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahayder/remix-test/issues"
+  },
+  "homepage": "https://github.com/ahayder/remix-test#readme",
+  "dependencies": {
+    "@remix-project/remixd": "^0.5.1"
+  }
+}
